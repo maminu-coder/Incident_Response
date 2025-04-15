@@ -1,0 +1,61 @@
+Notes on incident response.
+  Introduction
+    Overview
+    Who you need a plan
+    Lifecycle of an indicident response
+  
+  Incident Responcse Planning
+    Introduction : Incident response planning
+    Events and Incidents
+    Policy, plan, and procedures
+    Policy elements
+    Plan element 
+    Procedure elements
+
+  Incident Response Team
+    Incident response team
+    Incident response team structure
+    Types of teams
+    Selecting a team model
+    Learning a team
+    Organisational dependencies
+
+  Communication 
+    Communication
+    Coordinatingyour efforts
+    Internal information sharing
+    Business impact analysis
+    Technical analysis
+    External information sharing
+
+  Preparation
+    Preparation
+    Coomunication
+    Hardware and Software
+    Technical resources and information
+    Software Resource - Definitive media library
+    Incident prevention
+
+  Detection and Analysis
+    Detection and analysis
+    Attack vectors
+    Detecting an incident
+    Indicators of compremise
+    condecting analysis
+    Documenting the incident
+    Prioritizing the incident
+    Notification procedures
+  
+  Containment, Eradication, and Recovery
+    Containment, Eradication, and Recovery
+    Containment Strategy
+    Evidence collection and headling
+    Identifying the attackers
+    Eradication and recovery
+  
+  Post-Incident Activity
+    Post-incident activity
+    Lessons learned
+    Metrics and retention
+    Calculating the cost 
+
